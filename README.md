@@ -1,4 +1,4 @@
-# Local PDF-to-Podcast with Ollama
+# BriefCast-AI: Local PDF-to-Podcast with Ollama
 
 Turn PDF documents into a friendly two-speaker podcast **fully on your machine**.
 
