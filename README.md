@@ -1,4 +1,5 @@
 # BriefCast-AI: Local PDF-to-Podcast with Ollama
+<img width="1264" height="1320" alt="image" src="https://github.com/user-attachments/assets/5387ac00-84ca-4be5-baba-8802abe238ac" />
 
 Turn PDF documents into a friendly two-speaker podcast **fully on your machine**.
 
