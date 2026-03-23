@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+requests
+pydantic
+numpy
+soundfile
+kokoro
